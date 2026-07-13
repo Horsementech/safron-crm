@@ -58,7 +58,7 @@
     "@types/react-dom": "^19.0.2",
     "eslint": "^10.7.0",
     "eslint-config-next": "^16.2.10",
-    "postcss": "^8.5.17",
+    "postcss": "^8.5.18",
     "prettier": "^3.9.5",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "prisma": "^6.1.0",
